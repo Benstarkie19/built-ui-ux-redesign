@@ -3,7 +3,7 @@ Working with a business to redesign their website and admin panel
 
 
 # Figma LINK (open on browser)
-https://www.figma.com/file/Jtn6p6QT194dniiTq3WZMx/?node-id=3%3A423
+https://www.figma.com/file/wV6pIqrOGHhtN7OTSYgw7U/Built-APP-WEBSITE
 
 
 
